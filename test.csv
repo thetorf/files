@@ -1,2 +1,5 @@
-c1,c2,c3
-toto,tata,titi
+name,age,weight
+toto,12,40
+tata,50,70
+titi,8,4
+
